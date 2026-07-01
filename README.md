@@ -2,8 +2,6 @@
 
 https://muskan-tiwari-80.github.io/Nokia-Snake-Game/
 
-Nokia Snake Game
-
 Description
 
 Nokia Snake Game is a browser-based recreation of the classic Snake game found on early Nokia mobile phones. Built using HTML, CSS, and JavaScript, the game features smooth controls, score tracking, collision detection, and a retro-inspired interface.
